@@ -1,0 +1,922 @@
+<bound method Tag.prettify of <!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots">
+<!-- This site is optimized with the Yoast SEO Premium plugin v18.0 (Yoast SEO v22.8) - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Riva - Consultoria Ambiental</title>
+<link href="https://rivaambiental.com.br/" rel="canonical">
+<meta content="pt_BR" property="og:locale">
+<meta content="website" property="og:type"/>
+<meta content="Riva - Consultoria Ambiental" property="og:title"/>
+<meta content="REGULARIZE A SUA EMPRESA! Conte conosco e evite multas e dores de cabeça. Cuidamos de toda a burocracia ambiental para que você possa se dedicar totalmente ao crescimento do seu negócio. Somos especialistas em regularização ambiental. Conversar no WhatsApp HÁ 10 ANOS TRABALHAMOS PARA GARANTIR AS LICENÇAS AMBIENTAIS E PROJETOS NECESSÁRIOS PARA CENTENAS DE EMPREENDIMENTOS.​ Conversar […]" property="og:description"/>
+<meta content="https://rivaambiental.com.br/" property="og:url"/>
+<meta content="Riva Consultoria Ambiental" property="og:site_name"/>
+<meta content="2024-01-29T14:38:54+00:00" property="article:modified_time"/>
+<meta content="https://rivaambiental.com.br/wp-content/uploads/2024/01/foto-erica-sobre.png.webp" property="og:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://rivaambiental.com.br/","url":"https://rivaambiental.com.br/","name":"Riva - Consultoria Ambiental","isPartOf":{"@id":"https://rivaambiental.com.br/#website"},"about":{"@id":"https://rivaambiental.com.br/#organization"},"primaryImageOfPage":{"@id":"https://rivaambiental.com.br/#primaryimage"},"image":{"@id":"https://rivaambiental.com.br/#primaryimage"},"thumbnailUrl":"https://rivaambiental.com.br/wp-content/uploads/2024/01/foto-erica-sobre.png.webp","datePublished":"2023-12-20T17:50:58+00:00","dateModified":"2024-01-29T14:38:54+00:00","breadcrumb":{"@id":"https://rivaambiental.com.br/#breadcrumb"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://rivaambiental.com.br/"]}]},{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://rivaambiental.com.br/#primaryimage","url":"https://rivaambiental.com.br/wp-content/uploads/2024/01/foto-erica-sobre.png.webp","contentUrl":"https://rivaambiental.com.br/wp-content/uploads/2024/01/foto-erica-sobre.png.webp","width":550,"height":550},{"@type":"BreadcrumbList","@id":"https://rivaambiental.com.br/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Início"}]},{"@type":"WebSite","@id":"https://rivaambiental.com.br/#website","url":"https://rivaambiental.com.br/","name":"Riva Consultoria Ambiental","description":"","publisher":{"@id":"https://rivaambiental.com.br/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://rivaambiental.com.br/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"},{"@type":"Organization","@id":"https://rivaambiental.com.br/#organization","name":"Riva Consultoria Ambiental","url":"https://rivaambiental.com.br/","logo":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://rivaambiental.com.br/#/schema/logo/image/","url":"https://rivaambiental.com.br/wp-content/uploads/2022/03/cropped-LOGO-OFICIAL-COLORIDO.png","contentUrl":"https://rivaambiental.com.br/wp-content/uploads/2022/03/cropped-LOGO-OFICIAL-COLORIDO.png","width":1949,"height":1336,"caption":"Riva Consultoria Ambiental"},"image":{"@id":"https://rivaambiental.com.br/#/schema/logo/image/"}}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+<link href="https://rivaambiental.com.br/feed/" rel="alternate" title="Feed para Riva Consultoria Ambiental »" type="application/rss+xml"/>
+<link href="https://rivaambiental.com.br/comments/feed/" rel="alternate" title="Feed de comentários para Riva Consultoria Ambiental »" type="application/rss+xml"/>
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/rivaambiental.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id="cf-frontend-style-inline-css">
+@font-face {
+	font-family: 'Arlon';
+	font-weight: 700;
+	src: url('https://rivaambiental.com.br/wp-content/uploads/2024/01/Arlon-Black.otf') format('OpenType');
+}
+@font-face {
+	font-family: 'Arlon';
+	font-weight: 500;
+	src: url('https://rivaambiental.com.br/wp-content/uploads/2024/01/Arlon-Regular.otf') format('OpenType');
+}
+@font-face {
+	font-family: 'Arlon';
+	font-weight: 300;
+	src: url('https://rivaambiental.com.br/wp-content/uploads/2024/01/Arlon-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Poppins-Medium';
+	font-weight: 100;
+	font-display: auto;
+	src: url('https://rivaambiental.com.br/wp-content/uploads/2022/04/Poppins-Medium.otf') format('OpenType');
+}
+@font-face {
+	font-family: 'Poppins-Light';
+	font-weight: 100;
+	font-display: auto;
+	src: url('https://rivaambiental.com.br/wp-content/uploads/2022/04/Poppins-Light.otf') format('OpenType');
+}
+@font-face {
+	font-family: 'Poppins-Black';
+	font-weight: 100;
+	font-display: auto;
+	src: url('https://rivaambiental.com.br/wp-content/uploads/2022/04/Poppins-Black.otf') format('OpenType');
+}
+@font-face {
+	font-family: 'Exo2-Regular';
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://rivaambiental.com.br/wp-content/uploads/2022/03/Exo2-Regular.otf') format('OpenType');
+}
+@font-face {
+	font-family: 'Exo2-Light';
+	font-weight: 100;
+	font-display: auto;
+	src: url('https://rivaambiental.com.br/wp-content/uploads/2022/03/Exo2-Light.otf') format('OpenType');
+}
+@font-face {
+	font-family: 'Exo2-Bold';
+	font-weight: 100;
+	font-display: auto;
+	src: url('https://rivaambiental.com.br/wp-content/uploads/2022/03/Exo2-Bold.otf') format('OpenType');
+}
+</style>
+<link href="https://rivaambiental.com.br/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.4.1" id="sbi_styles-css" media="all" rel="stylesheet"/>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link href="https://rivaambiental.com.br/wp-content/plugins/insta-gallery/assets/frontend/swiper/swiper.min.css?ver=4.4.3" id="qligg-swiper-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/plugins/insta-gallery/build/frontend/css/style.css?ver=4.4.3" id="qligg-frontend-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/plugins/instagram-feed/admin/assets/css/callout.css" id="callout-style-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/themes/hello-elementor/style.min.css?ver=2.9.0" id="hello-elementor-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/themes/hello-elementor/theme.min.css?ver=2.9.0" id="hello-elementor-theme-style-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.18.3" id="elementor-frontend-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/uploads/elementor/css/post-6.css?ver=1705502101" id="elementor-post-6-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.25.0" id="elementor-icons-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6" id="swiper-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.18.2" id="elementor-pro-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.4.1" id="sbistyles-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/uploads/elementor/css/global.css?ver=1705502101" id="elementor-global-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/uploads/elementor/css/post-618.css?ver=1706559451" id="elementor-post-618-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/uploads/elementor/css/post-81.css?ver=1705594709" id="elementor-post-81-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/uploads/elementor/css/post-74.css?ver=1705502102" id="elementor-post-74-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/plugins/wp-whatsapp-chat/build/frontend/css/style.css?ver=7.4.1" id="qlwapp-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.9.24" id="eael-general-css" media="all" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.6.1" id="google-fonts-1-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" id="elementor-icons-shared-0-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3" id="elementor-icons-fa-brands-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3" id="elementor-icons-fa-regular-css" media="all" rel="stylesheet"/>
+<link href="https://rivaambiental.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3" id="elementor-icons-fa-solid-css" media="all" rel="stylesheet"/>
+<link crossorigin="" href="https://fonts.gstatic.com/" rel="preconnect"/><script id="jquery-core-js" src="https://rivaambiental.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://rivaambiental.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<link href="https://rivaambiental.com.br/wp-json/" rel="https://api.w.org/"><link href="https://rivaambiental.com.br/wp-json/wp/v2/pages/618" rel="alternate" title="JSON" type="application/json"/><link href="https://rivaambiental.com.br/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<meta content="WordPress 6.6.1" name="generator"/>
+<link href="https://rivaambiental.com.br/" rel="shortlink"/>
+<link href="https://rivaambiental.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frivaambiental.com.br%2F" rel="alternate" title="oEmbed (JSON)" type="application/json+oembed"/>
+<link href="https://rivaambiental.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frivaambiental.com.br%2F&amp;format=xml" rel="alternate" title="oEmbed (XML)" type="text/xml+oembed"/>
+<script>
+			document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+		</script>
+<style>
+			.no-js img.lazyload {
+				display: none;
+			}
+
+			figure.wp-block-image img.lazyloading {
+				min-width: 150px;
+			}
+
+						.lazyload, .lazyloading {
+				opacity: 0;
+			}
+
+			.lazyloaded {
+				opacity: 1;
+				transition: opacity 400ms;
+				transition-delay: 0ms;
+			}
+
+					</style>
+<meta content="Elementor 3.18.3; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-auto" name="generator"/>
+<!-- Meta Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2479172586263592');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=2479172586263592&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<!-- End Meta Pixel Code -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NV7GTCDH');</script>
+<!-- End Google Tag Manager -->
+<meta content="Powered by Slider Revolution 6.6.18 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." name="generator">
+<link href="https://rivaambiental.com.br/wp-content/uploads/2022/04/cropped-favicon-2-32x32.png" rel="icon" sizes="32x32"/>
+<link href="https://rivaambiental.com.br/wp-content/uploads/2022/04/cropped-favicon-2-192x192.png" rel="icon" sizes="192x192"/>
+<link href="https://rivaambiental.com.br/wp-content/uploads/2022/04/cropped-favicon-2-180x180.png" rel="apple-touch-icon"/>
+<meta content="https://rivaambiental.com.br/wp-content/uploads/2022/04/cropped-favicon-2-270x270.png" name="msapplication-TileImage"/>
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+<style>
+				:root {
+				--qlwapp-scheme-font-family:inherit;--qlwapp-scheme-font-size:18px;--qlwapp-scheme-icon-size:60px;--qlwapp-scheme-icon-font-size:24px;				}
+			</style>
+</meta></link></meta></link></meta></head>
+<body class="home page-template-default page page-id-618 wp-custom-logo elementor-default elementor-kit-6 elementor-page elementor-page-618">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-NV7GTCDH" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<a class="skip-link screen-reader-text" href="#content">Pular para o conteúdo</a>
+<div class="elementor elementor-81 elementor-location-header" data-elementor-id="81" data-elementor-post-type="elementor_library" data-elementor-type="header">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-9a3e002 elementor-section-content-middle elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="9a3e002" data-settings='{"background_background":"classic","sticky":"top","sticky_on":["desktop","tablet","mobile"],"sticky_offset":0,"sticky_effects_offset":0}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9489a5e" data-element_type="column" data-id="9489a5e">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-b23c4e6 elementor-widget elementor-widget-image" data-element_type="widget" data-id="b23c4e6" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.18.0 - 20-12-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style> <a href="https://rivaambiental.com.br/">
+<img alt="" class="attachment-full size-full wp-image-219 lazyload" data-sizes="(max-width: 1949px) 100vw, 1949px" data-src="https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO.png" data-srcset="https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO.png 1949w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-300x206.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-1024x702.png 1024w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-768x526.png 768w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-1536x1053.png 1536w" height="1336" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 1949px; --smush-placeholder-aspect-ratio: 1949/1336;" width="1949"/><noscript><img alt="" class="attachment-full size-full wp-image-219 lazyload" data-sizes="(max-width: 1949px) 100vw, 1949px" data-src="https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO.png" data-srcset="https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO.png 1949w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-300x206.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-1024x702.png 1024w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-768x526.png 768w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-1536x1053.png 1536w" height="1336" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 1949px; --smush-placeholder-aspect-ratio: 1949/1336;" width="1949"/><noscript><img alt="" class="attachment-full size-full wp-image-219" height="1336" sizes="(max-width: 1949px) 100vw, 1949px" src="https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO.png" srcset="https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO.png 1949w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-300x206.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-1024x702.png 1024w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-768x526.png 768w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-1536x1053.png 1536w" width="1949"/></noscript></noscript> </a>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cf13ff8" data-element_type="column" data-id="cf13ff8">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0a5e6d3 elementor-nav-menu__align-center elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-element_type="widget" data-id="0a5e6d3" data-settings='{"layout":"horizontal","submenu_icon":{"value":"&lt;i class=\"fas fa-caret-down\"&gt;&lt;\/i&gt;","library":"fa-solid"},"toggle":"burger"}' data-widget_type="nav-menu.default">
+<div class="elementor-widget-container">
+<link href="https://rivaambiental.com.br/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css" rel="stylesheet"/> <nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-background e--animation-fade">
+<ul class="elementor-nav-menu" id="menu-1-0a5e6d3"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-94"><a aria-current="page" class="elementor-item elementor-item-anchor" href="http://rivaambiental.com.br/#inicio">INÍCIO</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95"><a class="elementor-item" href="http://rivaambiental.com.br/quem-somos">SOBRE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97"><a class="elementor-item" href="https://rivaambiental.com.br/servicos/">SERVIÇOS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1460"><a class="elementor-item" href="https://rivaambiental.com.br/clientes/">CLIENTES</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96"><a class="elementor-item" href="http://rivaambiental.com.br/contato">CONTATO</a></li>
+</ul> </nav>
+<div aria-expanded="false" aria-label="Menu Toggle" class="elementor-menu-toggle" role="button" tabindex="0">
+<i aria-hidden="true" class="elementor-menu-toggle__icon--open eicon-menu-bar" role="presentation"></i><i aria-hidden="true" class="elementor-menu-toggle__icon--close eicon-close" role="presentation"></i> <span class="elementor-screen-only">Menu</span>
+</div>
+<nav aria-hidden="true" class="elementor-nav-menu--dropdown elementor-nav-menu__container">
+<ul class="elementor-nav-menu" id="menu-2-0a5e6d3"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-94"><a aria-current="page" class="elementor-item elementor-item-anchor" href="http://rivaambiental.com.br/#inicio" tabindex="-1">INÍCIO</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95"><a class="elementor-item" href="http://rivaambiental.com.br/quem-somos" tabindex="-1">SOBRE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97"><a class="elementor-item" href="https://rivaambiental.com.br/servicos/" tabindex="-1">SERVIÇOS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1460"><a class="elementor-item" href="https://rivaambiental.com.br/clientes/" tabindex="-1">CLIENTES</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96"><a class="elementor-item" href="http://rivaambiental.com.br/contato" tabindex="-1">CONTATO</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cf5b283" data-element_type="column" data-id="cf5b283">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-1cb2e43 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-element_type="widget" data-id="1cb2e43" data-widget_type="social-icons.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.18.0 - 20-12-2023 */
+.elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-mobile-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-tablet-0 .elementor-widget-container{line-height:1;font-size:0}.elementor-widget-social-icons:not(.elementor-grid-0):not(.elementor-grid-tablet-0):not(.elementor-grid-mobile-0) .elementor-grid{display:inline-grid}.elementor-widget-social-icons .elementor-grid{grid-column-gap:var(--grid-column-gap,5px);grid-row-gap:var(--grid-row-gap,5px);grid-template-columns:var(--grid-template-columns);justify-content:var(--justify-content,center);justify-items:var(--justify-content,center)}.elementor-icon.elementor-social-icon{font-size:var(--icon-size,25px);line-height:var(--icon-size,25px);width:calc(var(--icon-size, 25px) + 2 * var(--icon-padding, .5em));height:calc(var(--icon-size, 25px) + 2 * var(--icon-padding, .5em))}.elementor-social-icon{--e-social-icon-icon-color:#fff;display:inline-flex;background-color:#69727d;align-items:center;justify-content:center;text-align:center;cursor:pointer}.elementor-social-icon i{color:var(--e-social-icon-icon-color)}.elementor-social-icon svg{fill:var(--e-social-icon-icon-color)}.elementor-social-icon:last-child{margin:0}.elementor-social-icon:hover{opacity:.9;color:#fff}.elementor-social-icon-android{background-color:#a4c639}.elementor-social-icon-apple{background-color:#999}.elementor-social-icon-behance{background-color:#1769ff}.elementor-social-icon-bitbucket{background-color:#205081}.elementor-social-icon-codepen{background-color:#000}.elementor-social-icon-delicious{background-color:#39f}.elementor-social-icon-deviantart{background-color:#05cc47}.elementor-social-icon-digg{background-color:#005be2}.elementor-social-icon-dribbble{background-color:#ea4c89}.elementor-social-icon-elementor{background-color:#d30c5c}.elementor-social-icon-envelope{background-color:#ea4335}.elementor-social-icon-facebook,.elementor-social-icon-facebook-f{background-color:#3b5998}.elementor-social-icon-flickr{background-color:#0063dc}.elementor-social-icon-foursquare{background-color:#2d5be3}.elementor-social-icon-free-code-camp,.elementor-social-icon-freecodecamp{background-color:#006400}.elementor-social-icon-github{background-color:#333}.elementor-social-icon-gitlab{background-color:#e24329}.elementor-social-icon-globe{background-color:#69727d}.elementor-social-icon-google-plus,.elementor-social-icon-google-plus-g{background-color:#dd4b39}.elementor-social-icon-houzz{background-color:#7ac142}.elementor-social-icon-instagram{background-color:#262626}.elementor-social-icon-jsfiddle{background-color:#487aa2}.elementor-social-icon-link{background-color:#818a91}.elementor-social-icon-linkedin,.elementor-social-icon-linkedin-in{background-color:#0077b5}.elementor-social-icon-medium{background-color:#00ab6b}.elementor-social-icon-meetup{background-color:#ec1c40}.elementor-social-icon-mixcloud{background-color:#273a4b}.elementor-social-icon-odnoklassniki{background-color:#f4731c}.elementor-social-icon-pinterest{background-color:#bd081c}.elementor-social-icon-product-hunt{background-color:#da552f}.elementor-social-icon-reddit{background-color:#ff4500}.elementor-social-icon-rss{background-color:#f26522}.elementor-social-icon-shopping-cart{background-color:#4caf50}.elementor-social-icon-skype{background-color:#00aff0}.elementor-social-icon-slideshare{background-color:#0077b5}.elementor-social-icon-snapchat{background-color:#fffc00}.elementor-social-icon-soundcloud{background-color:#f80}.elementor-social-icon-spotify{background-color:#2ebd59}.elementor-social-icon-stack-overflow{background-color:#fe7a15}.elementor-social-icon-steam{background-color:#00adee}.elementor-social-icon-stumbleupon{background-color:#eb4924}.elementor-social-icon-telegram{background-color:#2ca5e0}.elementor-social-icon-thumb-tack{background-color:#1aa1d8}.elementor-social-icon-tripadvisor{background-color:#589442}.elementor-social-icon-tumblr{background-color:#35465c}.elementor-social-icon-twitch{background-color:#6441a5}.elementor-social-icon-twitter{background-color:#1da1f2}.elementor-social-icon-viber{background-color:#665cac}.elementor-social-icon-vimeo{background-color:#1ab7ea}.elementor-social-icon-vk{background-color:#45668e}.elementor-social-icon-weibo{background-color:#dd2430}.elementor-social-icon-weixin{background-color:#31a918}.elementor-social-icon-whatsapp{background-color:#25d366}.elementor-social-icon-wordpress{background-color:#21759b}.elementor-social-icon-xing{background-color:#026466}.elementor-social-icon-yelp{background-color:#af0606}.elementor-social-icon-youtube{background-color:#cd201f}.elementor-social-icon-500px{background-color:#0099e5}.elementor-shape-rounded .elementor-icon.elementor-social-icon{border-radius:10%}.elementor-shape-circle .elementor-icon.elementor-social-icon{border-radius:50%}</style> <div class="elementor-social-icons-wrapper elementor-grid">
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-float elementor-repeater-item-c4af102" href="https://www.facebook.com/rivaambiental/" target="_blank">
+<span class="elementor-screen-only">Facebook-f</span>
+<i class="fab fa-facebook-f"></i> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-float elementor-repeater-item-541e1f1" href="https://www.instagram.com/rivaambiental/" target="_blank">
+<span class="elementor-screen-only">Instagram</span>
+<i class="fab fa-instagram"></i> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-whatsapp elementor-animation-float elementor-repeater-item-83ae002" href="https://api.whatsapp.com/send?phone=5531993574209&amp;text=Ol%C3%A1%2C%20vim%20do%20site%20Riva%20Ambiental%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre..." target="_blank">
+<span class="elementor-screen-only">Whatsapp</span>
+<i class="fab fa-whatsapp"></i> </a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-f1ba078 elementor-section-content-middle elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="f1ba078" data-settings='{"background_background":"classic","sticky":"top","sticky_on":["desktop","tablet","mobile"],"sticky_offset":0,"sticky_effects_offset":0}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8a6fe26" data-element_type="column" data-id="8a6fe26">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-d6de755 elementor-widget elementor-widget-image" data-element_type="widget" data-id="d6de755" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://rivaambiental.com.br/">
+<img alt="" class="attachment-full size-full wp-image-219 lazyload" data-sizes="(max-width: 1949px) 100vw, 1949px" data-src="https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO.png" data-srcset="https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO.png 1949w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-300x206.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-1024x702.png 1024w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-768x526.png 768w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-1536x1053.png 1536w" height="1336" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 1949px; --smush-placeholder-aspect-ratio: 1949/1336;" width="1949"/><noscript><img alt="" class="attachment-full size-full wp-image-219 lazyload" data-sizes="(max-width: 1949px) 100vw, 1949px" data-src="https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO.png" data-srcset="https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO.png 1949w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-300x206.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-1024x702.png 1024w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-768x526.png 768w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-1536x1053.png 1536w" height="1336" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 1949px; --smush-placeholder-aspect-ratio: 1949/1336;" width="1949"/><noscript><img alt="" class="attachment-full size-full wp-image-219" height="1336" sizes="(max-width: 1949px) 100vw, 1949px" src="https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO.png" srcset="https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO.png 1949w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-300x206.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-1024x702.png 1024w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-768x526.png 768w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/LOGO-OFICIAL-COLORIDO-1536x1053.png 1536w" width="1949"/></noscript></noscript> </a>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-baf12c0" data-element_type="column" data-id="baf12c0">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-671944b elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-element_type="widget" data-id="671944b" data-widget_type="social-icons.default">
+<div class="elementor-widget-container">
+<div class="elementor-social-icons-wrapper elementor-grid">
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-float elementor-repeater-item-c4af102" href="https://www.facebook.com/rivaambiental/" target="_blank">
+<span class="elementor-screen-only">Facebook-f</span>
+<i class="fab fa-facebook-f"></i> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-float elementor-repeater-item-541e1f1" href="https://www.instagram.com/rivaambiental/" target="_blank">
+<span class="elementor-screen-only">Instagram</span>
+<i class="fab fa-instagram"></i> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-whatsapp elementor-animation-float elementor-repeater-item-83ae002" href="https://api.whatsapp.com/send?phone=5531993574209&amp;text=Ol%C3%A1%2C%20vim%20do%20site%20Riva%20Ambiental%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre..." target="_blank">
+<span class="elementor-screen-only">Whatsapp</span>
+<i class="fab fa-whatsapp"></i> </a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-386052c" data-element_type="column" data-id="386052c">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-8169acd elementor-nav-menu--stretch elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-element_type="widget" data-id="8169acd" data-settings='{"layout":"dropdown","full_width":"stretch","submenu_icon":{"value":"&lt;i class=\"fas fa-caret-down\"&gt;&lt;\/i&gt;","library":"fa-solid"},"toggle":"burger"}' data-widget_type="nav-menu.default">
+<div class="elementor-widget-container">
+<div aria-expanded="false" aria-label="Menu Toggle" class="elementor-menu-toggle" role="button" tabindex="0">
+<i aria-hidden="true" class="elementor-menu-toggle__icon--open eicon-menu-bar" role="presentation"></i><i aria-hidden="true" class="elementor-menu-toggle__icon--close eicon-close" role="presentation"></i> <span class="elementor-screen-only">Menu</span>
+</div>
+<nav aria-hidden="true" class="elementor-nav-menu--dropdown elementor-nav-menu__container">
+<ul class="elementor-nav-menu" id="menu-2-8169acd"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-94"><a aria-current="page" class="elementor-item elementor-item-anchor" href="http://rivaambiental.com.br/#inicio" tabindex="-1">INÍCIO</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95"><a class="elementor-item" href="http://rivaambiental.com.br/quem-somos" tabindex="-1">SOBRE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97"><a class="elementor-item" href="https://rivaambiental.com.br/servicos/" tabindex="-1">SERVIÇOS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1460"><a class="elementor-item" href="https://rivaambiental.com.br/clientes/" tabindex="-1">CLIENTES</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96"><a class="elementor-item" href="http://rivaambiental.com.br/contato" tabindex="-1">CONTATO</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<main class="site-main post-618 page type-page status-publish hentry" id="content">
+<div class="page-content">
+<div class="elementor elementor-618" data-elementor-id="618" data-elementor-post-type="page" data-elementor-type="wp-page">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0f5b749 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0f5b749">
+<div class="elementor-background-overlay"></div>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5c29cf4" data-element_type="column" data-id="5c29cf4">
+<div class="elementor-widget-wrap elementor-element-populated">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-0775da8 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0775da8">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3c136d4" data-element_type="column" data-id="3c136d4">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-b64a0ac elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b64a0ac" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.18.0 - 20-12-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">REGULARIZE </h2> </div>
+</div>
+<div class="elementor-element elementor-element-b2a1d48 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b2a1d48" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">A SUA EMPRESA! </h2> </div>
+</div>
+<div class="elementor-element elementor-element-783d823 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="783d823" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">Conte conosco e evite multas e dores de cabeça. Cuidamos de toda a burocracia ambiental para que você possa se dedicar totalmente ao crescimento do seu negócio. Somos especialistas em regularização ambiental.</h3> </div>
+</div>
+<div class="elementor-element elementor-element-4a6fe92 elementor-align-center elementor-widget elementor-widget-button" data-element_type="widget" data-id="4a6fe92" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="https://api.whatsapp.com/send?phone=5531993574209&amp;text=Ol%C3%A1%2C%20vim%20do%20site%20Riva%20Ambiental%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre..." target="_blank">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-right">
+<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
+<span class="elementor-button-text">Conversar no WhatsApp</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-5c8dae6 elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-image" data-element_type="widget" data-id="5c8dae6" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-1462" decoding="async" fetchpriority="high" height="550" sizes="(max-width: 550px) 100vw, 550px" src="https://rivaambiental.com.br/wp-content/uploads/2024/01/foto-erica-sobre.png.webp" srcset="https://rivaambiental.com.br/wp-content/uploads/2024/01/foto-erica-sobre.png.webp 550w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/foto-erica-sobre.png-300x300.webp 300w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/foto-erica-sobre.png-150x150.webp 150w" width="550"/> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b4fe74d" data-element_type="column" data-id="b4fe74d">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-93fe846 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="93fe846">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-362f7ec" data-element_type="column" data-id="362f7ec" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-e027815 elementor-invisible elementor-widget elementor-widget-ucaddon_splitting_letters_effect" data-element_type="widget" data-id="e027815" data-widget_type="ucaddon_splitting_letters_effect.default">
+<div class="elementor-widget-container">
+<!-- start Animated Split Text -->
+<style type="text/css">/* widget: Animated Split Text */
+
+
+.uc-splitting-text{
+	display:flex;
+	visibility:hidden;
+}
+
+.uc-splitting-text-wrapper
+{
+  display:flex;
+  flex-wrap: wrap;
+}
+
+.uc-splitting-text-item
+{
+  display:inline-flex;
+  flex-wrap: wrap;
+}
+
+.uc-splitting-text .word{
+   display:inline-flex;
+}
+
+.uc-splitting-text.uc-animated{
+	visibility:visible;
+}
+
+
+@keyframes ue_slide {
+  from {
+    transform: translateY(-1em) rotate(-.5turn) scale(0.5);
+    opacity: 0;
+  }
+}
+
+@keyframes ue_flip {
+  from {
+    transform: rotate(360deg) scale(0.5);
+    opacity: 0;
+  }
+}
+
+
+@keyframes ue_blur {
+  from {
+    transform: translateY(-1000px) scaleY(2.5) scaleX(0.2);
+    transform-origin: 50% 0%;
+    filter: blur(40px);
+    opacity: 0;
+  }
+}
+
+@keyframes ue_puff {
+  from {
+    transform: scale(2);
+    filter: blur(4px);
+    opacity: 0;
+  }
+}
+
+@keyframes ue_tilt {
+  from {
+    transform: rotateY(20deg) rotateX(35deg) translate(300px, -300px) skew(-35deg, 10deg);
+    opacity: 0;
+  }
+}
+
+@keyframes ue_scale {
+  from {
+    transform: scale(0);
+    opacity: 0;
+  }
+}
+            
+
+
+#uc_splitting_letters_effect_elementor18687.uc-animated .char {
+  animation: ue_slide 1s cubic-bezier(.5, 0, .5, 1) both;
+  animation-delay: calc(60ms * var(--char-index));
+}
+
+
+
+
+</style>
+<div class="uc-splitting-text" data-reveal-eachscroll="false" data-splitting="" id="uc_splitting_letters_effect_elementor18687">
+<div class="uc-splitting-text-wrapper">
+<div class="uc-splitting-text-item" id="uc_splitting_letters_effect_elementor18687_item1">HÁ 10 ANOS TRABALHAMOS PARA GARANTIR AS LICENÇAS AMBIENTAIS E PROJETOS NECESSÁRIOS PARA CENTENAS DE EMPREENDIMENTOS.​</div>
+</div>
+</div>
+<!-- end Animated Split Text --> </div>
+</div>
+<div class="elementor-element elementor-element-f2b98a9 elementor-align-center elementor-widget elementor-widget-button" data-element_type="widget" data-id="f2b98a9" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="https://api.whatsapp.com/send?phone=5531993574209&amp;text=Ol%C3%A1%2C%20vim%20do%20site%20Riva%20Ambiental%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre..." target="_blank">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-right">
+<i aria-hidden="true" class="fab fa-whatsapp"></i> </span>
+<span class="elementor-button-text">Conversar no WhatsApp</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-04f8c54 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="04f8c54">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b102692" data-element_type="column" data-id="b102692">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-b945427 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b945427" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">clientes satisfeitos</h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-b2ccca5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="b2ccca5">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-07f9afa" data-element_type="column" data-id="07f9afa">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-8eff2c2 elementor-widget elementor-widget-image" data-element_type="widget" data-id="8eff2c2" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-1205 lazyload" data-sizes="(max-width: 800px) 100vw, 800px" data-src="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-1-819x1024.jpg" data-srcset="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-1-819x1024.jpg 819w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-1-240x300.jpg 240w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-1-768x960.jpg 768w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-1-1229x1536.jpg 1229w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-1-1638x2048.jpg 1638w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-1-scaled.jpg 2048w" decoding="async" height="1000" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 800px; --smush-placeholder-aspect-ratio: 800/1000;" width="800"/><noscript><img alt="" class="attachment-large size-large wp-image-1205" decoding="async" height="1000" sizes="(max-width: 800px) 100vw, 800px" src="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-1-819x1024.jpg" srcset="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-1-819x1024.jpg 819w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-1-240x300.jpg 240w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-1-768x960.jpg 768w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-1-1229x1536.jpg 1229w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-1-1638x2048.jpg 1638w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-1-scaled.jpg 2048w" width="800"/></noscript> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-538020c" data-element_type="column" data-id="538020c">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-88cad25 elementor-widget elementor-widget-image" data-element_type="widget" data-id="88cad25" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-1206 lazyload" data-sizes="(max-width: 800px) 100vw, 800px" data-src="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-2-1-819x1024.jpg" data-srcset="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-2-1-819x1024.jpg 819w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-2-1-240x300.jpg 240w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-2-1-768x960.jpg 768w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-2-1-1229x1536.jpg 1229w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-2-1-1638x2048.jpg 1638w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-2-1-scaled.jpg 2048w" decoding="async" height="1000" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 800px; --smush-placeholder-aspect-ratio: 800/1000;" width="800"/><noscript><img alt="" class="attachment-large size-large wp-image-1206" decoding="async" height="1000" sizes="(max-width: 800px) 100vw, 800px" src="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-2-1-819x1024.jpg" srcset="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-2-1-819x1024.jpg 819w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-2-1-240x300.jpg 240w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-2-1-768x960.jpg 768w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-2-1-1229x1536.jpg 1229w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-2-1-1638x2048.jpg 1638w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-2-1-scaled.jpg 2048w" width="800"/></noscript> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-b29b122" data-element_type="column" data-id="b29b122">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-2520207 elementor-widget elementor-widget-image" data-element_type="widget" data-id="2520207" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-large size-large wp-image-1204 lazyload" data-sizes="(max-width: 800px) 100vw, 800px" data-src="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-3-819x1024.jpg" data-srcset="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-3-819x1024.jpg 819w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-3-240x300.jpg 240w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-3-768x960.jpg 768w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-3-1229x1536.jpg 1229w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-3-1638x2048.jpg 1638w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-3-scaled.jpg 2048w" decoding="async" height="1000" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 800px; --smush-placeholder-aspect-ratio: 800/1000;" width="800"/><noscript><img alt="" class="attachment-large size-large wp-image-1204" decoding="async" height="1000" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" src="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-3-819x1024.jpg" srcset="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-3-819x1024.jpg 819w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-3-240x300.jpg 240w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-3-768x960.jpg 768w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-3-1229x1536.jpg 1229w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-3-1638x2048.jpg 1638w,   https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-foto-3-scaled.jpg 2048w" width="800"/></noscript> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-2849840 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="2849840">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-ff4aa45" data-element_type="column" data-id="ff4aa45">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-3bab7bd elementor-widget elementor-widget-video" data-element_type="widget" data-id="3bab7bd" data-settings='{"video_type":"hosted","start":1,"controls":"yes"}' data-widget_type="video.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.18.0 - 20-12-2023 */
+.elementor-widget-video .elementor-widget-container{overflow:hidden;transform:translateZ(0)}.elementor-widget-video .elementor-wrapper{aspect-ratio:var(--video-aspect-ratio)}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{height:100%;width:100%;display:flex;border:none;background-color:#000}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-wrapper{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;right:0;bottom:0;left:0;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%;aspect-ratio:var(--video-aspect-ratio);-o-object-fit:cover;object-fit:cover;-o-object-position:center center;object-position:center center}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-custom-embed-image-overlay{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-custom-embed-image-overlay img{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}.e-con-inner>.elementor-widget-video,.e-con>.elementor-widget-video{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style> <div class="e-hosted-video elementor-wrapper elementor-open-inline">
+<video class="elementor-video" controls="" controlslist="nodownload" preload="metadata" src="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-licenciamento-ambiental-2.mp4#t=1"></video>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3f37e7d" data-element_type="column" data-id="3f37e7d">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-4a0097e elementor-widget elementor-widget-video" data-element_type="widget" data-id="4a0097e" data-settings='{"video_type":"hosted","start":1,"controls":"yes"}' data-widget_type="video.default">
+<div class="elementor-widget-container">
+<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+<video class="elementor-video" controls="" controlslist="nodownload" preload="metadata" src="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-licenciamento-ambiental-3.mp4#t=1"></video>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3a659bf" data-element_type="column" data-id="3a659bf">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-347e322 elementor-widget elementor-widget-video" data-element_type="widget" data-id="347e322" data-settings='{"video_type":"hosted","start":1,"controls":"yes"}' data-widget_type="video.default">
+<div class="elementor-widget-container">
+<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+<video class="elementor-video" controls="" controlslist="nodownload" preload="metadata" src="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-licenciamento-ambiental-4.mp4#t=1"></video>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-dd26b63 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="dd26b63">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-62de9d0" data-element_type="column" data-id="62de9d0">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-6dcf57a elementor-widget elementor-widget-video" data-element_type="widget" data-id="6dcf57a" data-settings='{"video_type":"hosted","start":1,"controls":"yes"}' data-widget_type="video.default">
+<div class="elementor-widget-container">
+<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+<video class="elementor-video" controls="" controlslist="nodownload" preload="metadata" src="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva.mp4#t=1"></video>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cdee998" data-element_type="column" data-id="cdee998">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-9c1d3a7 elementor-widget elementor-widget-video" data-element_type="widget" data-id="9c1d3a7" data-settings='{"video_type":"hosted","start":1,"controls":"yes"}' data-widget_type="video.default">
+<div class="elementor-widget-container">
+<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+<video class="elementor-video" controls="" controlslist="nodownload" preload="metadata" src="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-riva-2.mp4#t=1"></video>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6eba147" data-element_type="column" data-id="6eba147">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-5c16fd5 elementor-widget elementor-widget-video" data-element_type="widget" data-id="5c16fd5" data-settings='{"video_type":"hosted","start":1,"controls":"yes"}' data-widget_type="video.default">
+<div class="elementor-widget-container">
+<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+<video class="elementor-video" controls="" controlslist="nodownload" preload="metadata" src="https://rivaambiental.com.br/wp-content/uploads/2024/01/cliente-licenciamento-ambiental.mp4#t=1"></video>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-754aee0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="754aee0">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-a61bde5" data-element_type="column" data-id="a61bde5">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-a263b67" data-element_type="column" data-id="a263b67">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-6df5a00 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="6df5a00" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Serviços</h2> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cf2ef79" data-element_type="column" data-id="cf2ef79">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-034b70d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="034b70d">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cf27418" data-element_type="column" data-id="cf27418" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-e54b4ed elementor-widget elementor-widget-image" data-element_type="widget" data-id="e54b4ed" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="elementor-animation-hang attachment-large size-large wp-image-185 lazyload" data-sizes="(max-width: 512px) 100vw, 512px" data-src="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png" data-srcset="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png 512w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-300x300.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-150x150.png 150w" decoding="async" height="512" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 512px; --smush-placeholder-aspect-ratio: 512/512;" width="512"/><noscript><img alt="" class="elementor-animation-hang attachment-large size-large wp-image-185 lazyload" data-sizes="(max-width: 512px) 100vw, 512px" data-src="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png" data-srcset="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png 512w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-300x300.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-150x150.png 150w" decoding="async" height="512" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 512px; --smush-placeholder-aspect-ratio: 512/512;" width="512"/><noscript><img alt="" class="elementor-animation-hang attachment-large size-large wp-image-185 lazyload" data-sizes="(max-width: 512px) 100vw, 512px" data-src="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png" data-srcset="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png 512w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-300x300.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-150x150.png 150w" decoding="async" height="512" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 512px; --smush-placeholder-aspect-ratio: 512/512;" width="512"/><noscript><img alt="" class="elementor-animation-hang attachment-large size-large wp-image-185" decoding="async" height="512" loading="lazy" sizes="(max-width: 512px) 100vw, 512px" src="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png" srcset="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png 512w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-300x300.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-150x150.png 150w" width="512"/></noscript></noscript></noscript> </div>
+</div>
+<div class="elementor-element elementor-element-fc45cd4 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="fc45cd4" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">LICENCIAMENTO AMBIENTAL</h2> </div>
+</div>
+<div class="elementor-element elementor-element-a08534a elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="a08534a" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.18.0 - 20-12-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style> <p>O licenciamento ambiental é um certificado de aprovação para empresas que utilizam recursos naturais ou podem causar impactos ambientais. Ele autoriza a instalação, implantação e operação desses negócios. Imagine como uma permissão verde que diz: “Ok, pode começar, mas respeitando as regras para cuidar do meio ambiente.” Sem essa permissão, o empreendimento fica na estaca zero, sem poder dar início às suas atividades, ou caso já esteja em funcionamento, a empresa estará irregular podendo ser multada e embargada.</p> </div>
+</div>
+<div class="elementor-element elementor-element-759e950 elementor-widget elementor-widget-button" data-element_type="widget" data-id="759e950" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="https://rivaambiental.com.br/servicos/licenciamento-ambiental/">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-right">
+<i aria-hidden="true" class="far fa-hand-point-up"></i> </span>
+<span class="elementor-button-text">Veja mais detalhes</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-c202435" data-element_type="column" data-id="c202435" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-9342dd0 elementor-widget elementor-widget-image" data-element_type="widget" data-id="9342dd0" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="elementor-animation-hang attachment-large size-large wp-image-185 lazyload" data-sizes="(max-width: 512px) 100vw, 512px" data-src="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png" data-srcset="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png 512w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-300x300.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-150x150.png 150w" decoding="async" height="512" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 512px; --smush-placeholder-aspect-ratio: 512/512;" width="512"/><noscript><img alt="" class="elementor-animation-hang attachment-large size-large wp-image-185 lazyload" data-sizes="(max-width: 512px) 100vw, 512px" data-src="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png" data-srcset="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png 512w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-300x300.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-150x150.png 150w" decoding="async" height="512" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 512px; --smush-placeholder-aspect-ratio: 512/512;" width="512"/><noscript><img alt="" class="elementor-animation-hang attachment-large size-large wp-image-185 lazyload" data-sizes="(max-width: 512px) 100vw, 512px" data-src="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png" data-srcset="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png 512w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-300x300.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-150x150.png 150w" decoding="async" height="512" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 512px; --smush-placeholder-aspect-ratio: 512/512;" width="512"/><noscript><img alt="" class="elementor-animation-hang attachment-large size-large wp-image-185" decoding="async" height="512" loading="lazy" sizes="(max-width: 512px) 100vw, 512px" src="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png" srcset="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png 512w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-300x300.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-150x150.png 150w" width="512"/></noscript></noscript></noscript> </div>
+</div>
+<div class="elementor-element elementor-element-4e11f63 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="4e11f63" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">PLANO DE GERENCIAMENTO<br/> DE RESIDUOS SÓLIDOS</h2> </div>
+</div>
+<div class="elementor-element elementor-element-d7c9b61 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="d7c9b61" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>O Plano de Gerenciamento de Resíduos Sólidos (PGRS) é um documento técnico que estabelece as diretrizes e procedimentos para o manejo adequado dos resíduos sólidos gerados por uma empresa, empreendimento ou atividade.</p><p>O PGRS é uma ferramenta fundamental para promover a gestão sustentável de resíduos sólidos, atendendo não apenas a requisitos legais, mas também contribuindo para a redução de impactos ambientais e a promoção da responsabilidade social corporativa.</p> </div>
+</div>
+<div class="elementor-element elementor-element-fe3ebfb elementor-widget elementor-widget-button" data-element_type="widget" data-id="fe3ebfb" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="https://rivaambiental.com.br/servicos/plano-de-gerenciamento-de-residuos-solidos/">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-right">
+<i aria-hidden="true" class="far fa-hand-point-up"></i> </span>
+<span class="elementor-button-text">Veja mais detalhes</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7533d0f" data-element_type="column" data-id="7533d0f" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-4ac6c98 elementor-widget elementor-widget-image" data-element_type="widget" data-id="4ac6c98" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="elementor-animation-hang attachment-large size-large wp-image-185 lazyload" data-sizes="(max-width: 512px) 100vw, 512px" data-src="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png" data-srcset="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png 512w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-300x300.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-150x150.png 150w" decoding="async" height="512" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 512px; --smush-placeholder-aspect-ratio: 512/512;" width="512"/><noscript><img alt="" class="elementor-animation-hang attachment-large size-large wp-image-185 lazyload" data-sizes="(max-width: 512px) 100vw, 512px" data-src="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png" data-srcset="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png 512w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-300x300.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-150x150.png 150w" decoding="async" height="512" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 512px; --smush-placeholder-aspect-ratio: 512/512;" width="512"/><noscript><img alt="" class="elementor-animation-hang attachment-large size-large wp-image-185 lazyload" data-sizes="(max-width: 512px) 100vw, 512px" data-src="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png" data-srcset="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png 512w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-300x300.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-150x150.png 150w" decoding="async" height="512" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 512px; --smush-placeholder-aspect-ratio: 512/512;" width="512"/><noscript><img alt="" class="elementor-animation-hang attachment-large size-large wp-image-185" decoding="async" height="512" loading="lazy" sizes="(max-width: 512px) 100vw, 512px" src="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png" srcset="https://rivaambiental.com.br/wp-content/uploads/2022/04/eco.png 512w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-300x300.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/04/eco-150x150.png 150w" width="512"/></noscript></noscript></noscript> </div>
+</div>
+<div class="elementor-element elementor-element-0406d5e elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0406d5e" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">ALVARA SANITÁRIO​</h2> </div>
+</div>
+<div class="elementor-element elementor-element-b9b8447 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="b9b8447" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>O Alvará Sanitário é um documento emitido pela autoridade sanitária competente, geralmente a Secretaria de Saúde municipal. Esse documento atesta que um estabelecimento atende aos requisitos sanitários necessários para garantir a segurança e a saúde pública. </p> </div>
+</div>
+<div class="elementor-element elementor-element-677c1e1 elementor-widget elementor-widget-button" data-element_type="widget" data-id="677c1e1" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="https://rivaambiental.com.br/servicos/alvara-sanitario/">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-right">
+<i aria-hidden="true" class="far fa-hand-point-up"></i> </span>
+<span class="elementor-button-text">Veja mais detalhes</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="post-tags">
+</div>
+</div>
+</main>
+<div class="elementor elementor-74 elementor-location-footer" data-elementor-id="74" data-elementor-post-type="elementor_library" data-elementor-type="footer">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-f2125b0 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="f2125b0" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9f36a94" data-element_type="column" data-id="9f36a94">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-08f0922 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="08f0922" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">© 2024 Riva Consultoria Ambiental. Todos os direitos reservados.</h2> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4ea3f64" data-element_type="column" data-id="4ea3f64">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-09103bc elementor-widget elementor-widget-heading" data-element_type="widget" data-id="09103bc" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Site desenvolvido por:</h2> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-070b05a" data-element_type="column" data-id="070b05a">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-9232dda elementor-widget elementor-widget-image" data-element_type="widget" data-id="9232dda" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://www.agenciaspasso.com.br/" target="_blank">
+<img alt="" class="attachment-large size-large wp-image-1027 lazyload" data-sizes="(max-width: 800px) 100vw, 800px" data-src="https://rivaambiental.com.br/wp-content/uploads/2022/03/Spasso-Logo-1024x293-1.png" data-srcset="https://rivaambiental.com.br/wp-content/uploads/2022/03/Spasso-Logo-1024x293-1.png 1024w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/Spasso-Logo-1024x293-1-300x86.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/Spasso-Logo-1024x293-1-768x220.png 768w" height="229" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 800px; --smush-placeholder-aspect-ratio: 800/229;" width="800"/><noscript><img alt="" class="attachment-large size-large wp-image-1027" height="229" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" src="https://rivaambiental.com.br/wp-content/uploads/2022/03/Spasso-Logo-1024x293-1.png" srcset="https://rivaambiental.com.br/wp-content/uploads/2022/03/Spasso-Logo-1024x293-1.png 1024w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/Spasso-Logo-1024x293-1-300x86.png 300w,   https://rivaambiental.com.br/wp-content/uploads/2022/03/Spasso-Logo-1024x293-1-768x220.png 768w" width="800"/></noscript> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://rivaambiental.com.br/wp-admin/admin-ajax.php";
+</script>
+<div class="qlwapp qlwapp-free qlwapp-bubble qlwapp-bottom-right qlwapp-all qlwapp-rounded" id="qlwapp">
+<div class="qlwapp-container">
+<a class="qlwapp-toggle" data-action="open" data-message="Olá, vim do site Riva Ambiental e gostaria de informações sobre..." data-phone="5531993574209" role="button" tabindex="0" target="_blank">
+<i class="qlwapp-icon qlwapp-whatsapp-icon"></i>
+<i class="qlwapp-close" data-action="close">×</i>
+</a>
+</div>
+</div>
+<link href="https://rivaambiental.com.br/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.18.3" id="e-animations-css" media="all" rel="stylesheet">
+<link href="https://rivaambiental.com.br/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.18" id="rs-plugin-settings-css" media="all" rel="stylesheet"/>
+<style id="rs-plugin-settings-inline-css">
+#rs-demo-id {}
+</style>
+<script id="imagesloaded-js" src="https://rivaambiental.com.br/wp-includes/js/imagesloaded.min.js?ver=5.0.0"></script>
+<script id="masonry-js" src="https://rivaambiental.com.br/wp-includes/js/masonry.min.js?ver=4.2.2"></script>
+<script id="qligg-swiper-js" src="https://rivaambiental.com.br/wp-content/plugins/insta-gallery/assets/frontend/swiper/swiper.min.js?ver=4.4.3"></script>
+<script async="" defer="" id="tp-tools-js" src="https://rivaambiental.com.br/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.18"></script>
+<script async="" defer="" id="revmin-js" src="https://rivaambiental.com.br/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.18"></script>
+<script id="hello-theme-frontend-js" src="https://rivaambiental.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0"></script>
+<script id="qlwapp-js" src="https://rivaambiental.com.br/wp-content/plugins/wp-whatsapp-chat/build/frontend/js/index.js?ver=e91de9a147a4b721ec5b"></script>
+<script id="smush-lazy-load-js" src="https://rivaambiental.com.br/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.16.4"></script>
+<script id="eael-general-js-extra">
+var localize = {"ajaxurl":"https:\/\/rivaambiental.com.br\/wp-admin\/admin-ajax.php","nonce":"e6cce34cfe","i18n":{"added":"Adicionado ","compare":"Comparar","loading":"Carregando..."},"eael_translate_text":{"required_text":"\u00e9 um campo obrigat\u00f3rio","invalid_text":"Inv\u00e1lido","billing_text":"Faturamento","shipping_text":"Envio","fg_mfp_counter_text":"de"},"page_permalink":"https:\/\/rivaambiental.com.br\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Retrato em dispositivos m\u00f3veis","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Paisagem em dispositivos m\u00f3veis","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Retrato em tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Paisagem em tablet","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Notebook","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Tela ampla (widescreen)","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+</script>
+<script id="eael-general-js" src="https://rivaambiental.com.br/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.9.24"></script>
+<script id="smartmenus-js" src="https://rivaambiental.com.br/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1"></script>
+<script id="uc_ac_assets_file_splitting_min_js_3722-js" src="https://rivaambiental.com.br/wp-content/uploads/ac_assets/uc-splitting-text/splitting.min.js?ver=1.4.85"></script>
+<script id="elementor-pro-webpack-runtime-js" src="https://rivaambiental.com.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.18.2"></script>
+<script id="elementor-webpack-runtime-js" src="https://rivaambiental.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.18.3"></script>
+<script id="elementor-frontend-modules-js" src="https://rivaambiental.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.18.3"></script>
+<script id="wp-hooks-js" src="https://rivaambiental.com.br/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18"></script>
+<script id="wp-i18n-js" src="https://rivaambiental.com.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/rivaambiental.com.br\/wp-admin\/admin-ajax.php","nonce":"24c2e151d6","urls":{"assets":"https:\/\/rivaambiental.com.br\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/rivaambiental.com.br\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"pt_BR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/rivaambiental.com.br\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script id="elementor-pro-frontend-js" src="https://rivaambiental.com.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.18.2"></script>
+<script id="elementor-waypoints-js" src="https://rivaambiental.com.br/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2"></script>
+<script id="jquery-ui-core-js" src="https://rivaambiental.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","download":"Baixar","downloadImage":"Baixar imagem","fullscreen":"Tela cheia","zoom":"Zoom","share":"Compartilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Pr\u00f3ximo","close":"Fechar","a11yCarouselWrapperAriaLabel":"Carrossel | Rolagem horizontal: Setas para esquerda e direita","a11yCarouselPrevSlideMessage":"Slide anterior","a11yCarouselNextSlideMessage":"Pr\u00f3ximo slide","a11yCarouselFirstSlideMessage":"Este \u00e9 o primeiro slide","a11yCarouselLastSlideMessage":"Este \u00e9 o \u00faltimo slide","a11yCarouselPaginationBulletMessage":"Ir para o slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Retrato em dispositivos m\u00f3veis","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Paisagem em dispositivos m\u00f3veis","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Retrato em tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Paisagem em tablet","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Notebook","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Tela ampla (widescreen)","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.18.3","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"block_editor_assets_optimize":true,"landing-pages":true,"e_image_loading_optimization":true,"e_global_styleguide":true,"page-transitions":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/rivaambiental.com.br\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":618,"title":"Riva%20-%20Consultoria%20Ambiental","excerpt":"","featuredImage":false}};
+</script>
+<script id="elementor-frontend-js" src="https://rivaambiental.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.3"></script>
+<script id="pro-elements-handlers-js" src="https://rivaambiental.com.br/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.18.2"></script>
+<script id="e-sticky-js" src="https://rivaambiental.com.br/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.18.2"></script>
+<!--   Unlimited Elements Scripts  -->
+<script type="text/javascript">
+// Animated Split Text scripts: 
+Splitting();
+
+jQuery(document).ready(function(){
+  
+  	var objElement = jQuery("#uc_splitting_letters_effect_elementor18687");
+
+	function isElementInViewport(objElement) {
+
+		var elementTop = objElement.offset().top;
+		var elementBottom = elementTop + objElement.outerHeight();
+
+		var viewportTop = jQuery(window).scrollTop();
+		var viewportBottom = viewportTop + jQuery(window).height();
+
+		return elementBottom > viewportTop && elementTop < viewportBottom;
+	}
+	  
+	function checkAnimation(){
+		
+      	var classVisible = 'uc-was-visible';
+      	var classAnimated = 'uc-animated';
+			
+		var isInViewport = isElementInViewport(objElement);
+        var dataRevealEachScroll = objElement.data('reveal-eachscroll');
+			
+		if(isInViewport == false && dataRevealEachScroll == true){
+          
+        	objElement.removeClass(classVisible);
+          	objElement.removeClass(classAnimated);
+          
+          	return(false);
+        }
+		          
+        if(isInViewport == false && dataRevealEachScroll == false)
+		return(false);
+						
+		objElement.addClass(classVisible);
+			
+		setTimeout(function(){
+          
+			objElement.addClass(classAnimated);
+          
+		},500);
+		
+	}
+	
+	checkAnimation();
+	
+	jQuery(window).on("scroll",checkAnimation);
+	
+});
+</script>
+</link></body>
+</html>>
